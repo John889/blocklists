@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?> 
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'> 
   <app appid='gedbgdeckoinnpcfbicmdbicgipiflic'> 
-  <updatecheck codebase='https://github.com/John889/blocklists/raw/main/Web-Filter-for-Chrome.crx' version='1.10' /> 
+  <updatecheck codebase='https://raw.githubusercontent.com/John889/blocklists/main/Web-Filter-for-Chrome.crx' version='1.10' /> 
   </app> 
 </gupdate> 
