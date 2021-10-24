@@ -40,12 +40,13 @@ ff02::3 ip6-allhosts
 151.101.85.140 gateway.reddit.com alb.reddit.com
 151.101.53.140 gql.reddit.com www.redditstatic.com redditstatic.com out.reddit.com
 151.101.181.140 oauth.reddit.com
-151.101.121.140 snoovatar.reddit.com  v.redd.it
+151.101.121.140 snoovatar.reddit.com
 #reddit live stream allow (to block change the ip to 0.0.0.0)
 151.101.85.140 watch.redd.it
 #reddit images and videos allow (to block change the ip to 0.0.0.0)
 151.101.41.140 a.thumbs.redditmedia.com b.thumbs.redditmedia.com external-preview.redd.it i.redd.it preview.redd.it styles.redditmedia.com www.redditmedia.com
 3.215.169.224 redditmedia.com
+151.101.121.140 v.redd.it
 ################################################
 #twitter media (to block images and videos on twitter remove the # from the following line)
 #0.0.0.0 pbs.twimg.com video.twimg.com
