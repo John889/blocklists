@@ -40,7 +40,7 @@ ff02::3 ip6-allhosts
 151.101.85.140 gateway.reddit.com alb.reddit.com
 151.101.53.140 gql.reddit.com www.redditstatic.com redditstatic.com out.reddit.com
 151.101.181.140 oauth.reddit.com
-151.101.121.140 snoovatar.reddit.com
+151.101.121.140 snoovatar.reddit.com  v.redd.it
 #reddit live stream allow (to block change the ip to 0.0.0.0)
 151.101.85.140 watch.redd.it
 #reddit images and videos allow (to block change the ip to 0.0.0.0)
