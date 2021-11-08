@@ -6341,7 +6341,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wp6.martinmyska.cz
 0.0.0.0 wp14.pwtn.eu
 0.0.0.0 worm32ml.myqnapcloud.com
-0.0.0.0 wjptest.azurewebsites.net
 0.0.0.0 what.monster.ghostweb.win:991
 0.0.0.0 weibodangan.com
 0.0.0.0 webview.rumblemessenger.com
@@ -6471,7 +6470,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 proxycheck.org
 0.0.0.0 proxybit.xyz
 0.0.0.0 proxyamerica.org
-0.0.0.0 proxy2.azurewebsites.net
 0.0.0.0 proxy1122.com
 0.0.0.0 proxy.zagon.net.pe
 0.0.0.0 proxy.x3r.fr
@@ -6566,7 +6564,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 majaxbox.com
 0.0.0.0 magick.link
 0.0.0.0 m-live.me
-0.0.0.0 lujw.azurewebsites.net
 0.0.0.0 lifeoverflow.000webhostapp.com
 0.0.0.0 lewat.dadangnh.com
 0.0.0.0 laserpc.net
@@ -6579,7 +6576,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kawi.fr
 0.0.0.0 jtoonen.synology.me
 0.0.0.0 jrprnet.com
-0.0.0.0 jppx.azurewebsites.net
 0.0.0.0 jp.orz1.win
 0.0.0.0 jothost.com
 0.0.0.0 jerry981028.ml
@@ -6593,11 +6589,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipgizle.net
 0.0.0.0 interschnell.de
 0.0.0.0 internetwayaround.xyz
-0.0.0.0 in-us.azurewebsites.net
 0.0.0.0 igorermn.dyndns.org
 0.0.0.0 idgaf.douglashuck.com
 0.0.0.0 host.ytwlxt.top
-0.0.0.0 hkdl.azurewebsites.net
 0.0.0.0 hk3.vps.vtte.org
 0.0.0.0 hideschools.info
 0.0.0.0 hideme.id
@@ -6645,7 +6639,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dresiss.com
 0.0.0.0 draky.net
 0.0.0.0 dontfilter.me
-0.0.0.0 dnytest.azurewebsites.net
 0.0.0.0 dmav.my
 0.0.0.0 dizzie-quest.com
 0.0.0.0 divadresses.co.uk
@@ -6737,8 +6730,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-laidlapparel.ae.fashionexplorer.ru
 0.0.0.0 yxvw2.accountant
 0.0.0.0 yxorp.red-design-germany.net
-0.0.0.0 yuuid3.azurewebsites.net
-0.0.0.0 yuuid1.azurewebsites.net
 0.0.0.0 yutube.herokuapp.com
 0.0.0.0 yujbty.cn
 0.0.0.0 ytztc.herokuapp.com
@@ -6777,7 +6768,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xz4tu.science
 0.0.0.0 xyzcode.com
 0.0.0.0 xyk.za.net
-0.0.0.0 xxnw.azurewebsites.net
 0.0.0.0 xwyvv.science
 0.0.0.0 xtremecorset.com
 0.0.0.0 xtcsoul.net
@@ -8302,7 +8292,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sitesmuggler.com
 0.0.0.0 sitenable.pw
 0.0.0.0 sitenable.com
-0.0.0.0 sitegrabber.azurewebsites.net
 0.0.0.0 sitegainer.se
 0.0.0.0 sirproxy.com
 0.0.0.0 singapore.proxylistpro.com
@@ -8388,8 +8377,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ry6ya.bid
 0.0.0.0 rwpdv.date
 0.0.0.0 ruum.me
-0.0.0.0 rusweb.azurewebsites.net
-0.0.0.0 ruproxy.azurewebsites.net
 0.0.0.0 ruprik.ru
 0.0.0.0 rubix.uz
 0.0.0.0 rrh6s.trade
@@ -8424,7 +8411,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rendiminum.haus
 0.0.0.0 rendi.mobi
 0.0.0.0 remote-jobs.de
-0.0.0.0 reizhi-php.azurewebsites.net
 0.0.0.0 reeeee.herokuapp.com
 0.0.0.0 redproxy.online
 0.0.0.0 redproxy.net
@@ -8445,7 +8431,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 raged.com
 0.0.0.0 radziu.gbzl.pl
 0.0.0.0 radiant-reef-8284.herokuapp.com
-0.0.0.0 radarcloud-sa.azurewebsites.net
 0.0.0.0 r9kpr.racing
 0.0.0.0 r73v7.webcam
 0.0.0.0 r6b2f.bid
@@ -8789,7 +8774,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 proxy-video.com
 0.0.0.0 proxy-vault.com
 0.0.0.0 proxy-tutorial.herokuapp.com
-0.0.0.0 proxy-server.azurewebsites.net
 0.0.0.0 proxy-power.com
 0.0.0.0 proxy-oskchina.rhcloud.com
 0.0.0.0 proxy-it.nordvpn.com
@@ -10182,7 +10166,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blackghost.esy.es
 0.0.0.0 blackdays.ml
 0.0.0.0 bla2000.esy.es
-0.0.0.0 bitrix24proxy.azurewebsites.net
 0.0.0.0 bitait.net
 0.0.0.0 binhexsolutions.co.uk
 0.0.0.0 bind2.com
@@ -26400,5 +26383,4 @@ ff02::3 ip6-allhosts
 #0.0.0.0 2.dnscrypt.family.ns1.adguard.com 2.dnscrypt.family.ns2.adguard.com 2.dnscrypt.default.ns1.adguard.com 2.dnscrypt.default.ns2.adguard.com 2.dnscrypt-cert.dns.bikinhappy.com 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.babylon.network 2.dnscrypt-cert.opendns.com 2.dnscrypt-cert.opendns.com 2.dnscrypt-cert.opendns.com 2.dnscrypt-cert.cypherpunks.ru 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.cryptostorm.is 2.dnscrypt-cert.at.d0wn.biz 2.dnscrypt-cert.cz.d0wn.biz 2.dnscrypt-cert.de.d0wn.biz 2.dnscrypt-cert.de.d0wn.biz 2.dnscrypt-cert.es.d0wn.biz 2.dnscrypt-cert.fr.d0wn.biz 2.dnscrypt-cert.fr2.d0wn.biz 2.dnscrypt-cert.fr2.d0wn.biz 2.dnscrypt-cert.gr.d0wn.biz 2.dnscrypt-cert.id.d0wn.biz 2.dnscrypt-cert.is.d0wn.biz 2.dnscrypt-cert.is2.d0wn.biz 2.dnscrypt-cert.it.d0wn.biz 2.dnscrypt-cert.lv.d0wn.biz 2.dnscrypt-cert.lv2.d0wn.biz 2.dnscrypt-cert.lv2.d0wn.biz 2.dnscrypt-cert.md.d0wn.biz 2.dnscrypt-cert.md.d0wn.biz 2.dnscrypt-cert.mx.d0wn.biz 2.dnscrypt-cert.nl.d0wn.biz 2.dnscrypt-cert.nl.d0wn.biz 2.dnscrypt-cert.nl2.d0wn.biz 2.dnscrypt-cert.nl2.d0wn.biz 2.dnscrypt-cert.nl4.d0wn.biz 2.dnscrypt-cert.random.d0wn.biz 2.dnscrypt-cert.random.d0wn.biz 2.dnscrypt-cert.random2.d0wn.biz 2.dnscrypt-cert.random2.d0wn.biz 2.dnscrypt-cert.ru.d0wn.biz 2.dnscrypt-cert.se.d0wn.biz 2.dnscrypt-cert.se.d0wn.biz 2.dnscrypt-cert.se2.d0wn.biz 2.dnscrypt-cert.sg.d0wn.biz 2.dnscrypt-cert.sg.d0wn.biz 2.dnscrypt-cert.tz.d0wn.biz 2.dnscrypt-cert.tz.d0wn.biz 2.dnscrypt-cert.us.d0wn.biz 2.dnscrypt-cert.us2.d0wn.biz 2.dnscrypt-cert.us4.d0wn.biz 2.dnscrypt-cert.za.d0wn.biz 2.dnscrypt-cert.dnscrypt.ca-1 2.dnscrypt-cert.dnscrypt.ca-2 2.dnscrypt-cert.resolver2.dnscrypt.eu 2.dnscrypt-cert.resolver2.dnscrypt.eu 2.dnscrypt-cert.resolver1.dnscrypt.eu 2.dnscrypt-cert.ns0.dnscrypt.nl 2.dnscrypt-cert.ns0.dnscrypt.nl 2.dnscrypt-cert.fr.dnscrypt.org 2.dnscrypt-cert.dnsrec.meo.ws 2.dnscrypt-cert.dnsrec.meo.ws 2.dnscrypt-cert.ipredator.se 2.dnscrypt-cert.ns0.dnscrypt.is 2.dnscrypt-cert.okturtles.com 2.tumabox.org 2.tumabox.org 2.dnscrypt-cert.securedns.eu 2.dnscrypt-cert.securedns.eu 2.dnscrypt-cert.soltysiak.com 2.dnscrypt-cert.soltysiak.com 2.dnscrypt-cert.dnscrypt.ventricle.us 2.dnscrypt-cert.browser.yandex.net
 #0.0.0.0 hhhh.xxx
 #baidu.co.th www.baidu.co.th baidu.com www.baidu.com  m.baidu.com www.m.baidu.com news.baidu.com www.news.baidu.com tieba.baidu.com www.tieba.baidu.com  zhidao.baidu.com www.zhidao.baidu.com www1.baidu.com 
-
 
