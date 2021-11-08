@@ -5710,7 +5710,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.blue-nil.net
 0.0.0.0 anonim.i256.ru
 0.0.0.0 rcdzapata.ca
-0.0.0.0 in-us.azurewebsites.net
 0.0.0.0 proxy.guardster.com
 0.0.0.0 proxy.twista.cz
 0.0.0.0 us1-web.getbehind.me
@@ -5836,7 +5835,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.proxy-service.de
 0.0.0.0 onlineproxy.eu
 0.0.0.0 securefor.com
-0.0.0.0 rusweb.azurewebsites.net
 0.0.0.0 webproxy.vpnbook.com
 0.0.0.0 wickey.herokuapp.com
 0.0.0.0 www.kn.com.my
