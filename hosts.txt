@@ -77,8 +77,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 video.search.yahoo.com www.video.search.yahoo.com
 0.0.0.0 search.yahoo.com www.search.yahoo.com
 
-#Blocking duckduckgo (if you want to filter duckduckgo instead, then replace the IPs with 46.137.218.113)
-0.0.0.0 duckduckgo.com www.duckduckgo.com
+#Blocking duckduckgo (to block it, replace the IP with 0.0.0.0)
+46.137.218.113 duckduckgo.com www.duckduckgo.com
 
 #block other searchengines
 0.0.0.0 search.brave.com searchencrypt.com www.searchencrypt.com petalsearch.com www.petalsearch.com toolsbug.com www.toolsbug.com picuki.com search.brave.com
