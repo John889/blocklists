@@ -24,7 +24,7 @@ ff02::3 ip6-allhosts
 #yes, you need to block www.examplesite.com and examplesite.com
 ################################################
 #Unrestricted youtube
-#If you want restricred youtube, which blocks unsafe videos,
+#If you want restricted youtube, which blocks unsafe videos,
 #but blocks some safe videos and all comments, change all of the following IPs to 216.239.38.119)
 172.217.19.42 www.youtube.com
 172.217.171.238 m.youtube.com
