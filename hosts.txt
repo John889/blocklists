@@ -85,6 +85,9 @@ ff02::3 ip6-allhosts
 213.180.193.56 yandex.ru
 
 #block searchengines other than google, yandex, bing, duckduckgo and baidu.
+0.0.0.0 tor.link www.tor.link
+0.0.0.0 onionsearchengine.com www.onionsearchengine.com
+0.0.0.0 onionlandsearchengine.com www.nionlandsearchengine.com
 0.0.0.0 search.brave.com searchencrypt.com www.searchencrypt.com petalsearch.com www.petalsearch.com toolsbug.com www.toolsbug.com picuki.com search.brave.com
 0.0.0.0 www.startpage.com startpage.com you.com mojeek.co.uk qmamu.com ekoru.org
 0.0.0.0  www.you.com www.mojeek.co.uk www.qmamu.com www.ekoru.org
